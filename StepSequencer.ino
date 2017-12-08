@@ -1,3 +1,5 @@
+//this is a step sequencer
+//copy of lab 7
 int buttonPins[4] = { 36, 35, 34, 33 };
 int nextButtonPin = 39;
 int previousButtonPin = 38;
